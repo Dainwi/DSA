@@ -11,7 +11,7 @@ int intersaction(int arr[], int ar1[], int n, int m)
             if (arr[i] == ar1[j])
             {
                 ans = arr[i];
-                ar1[j] = -112231;
+                ar1[j] = -1;
             }
         }
     }
