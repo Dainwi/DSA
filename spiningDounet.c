@@ -44,7 +44,6 @@ int main() {
             B += 0.00002;
         }
         usleep(30000);
-        //unsigned int mSeconds = 500000;
     }
     return 0;
 }
